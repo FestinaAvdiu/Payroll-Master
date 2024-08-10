@@ -17,15 +17,18 @@ Welcome to the **Payroll Master**!  This Java-based console app is your go-to to
 .
 ├── src
 │   |
-│   ├── Main.java             # The entry point of your program
+│   ├── Main.java             # The entry point of the program
 │   ├── Employee.java         # Employee class and subclasses
+|   |        ├── Worker.java       
+│   |        └── Manager.java 
+|   |
 │   ├── DataReader.java       # Reads employee and work hours data
 │   └── DataSorter.java       # Sorts employees by various criteria
 |
 └── data files
 │       ├── catalogfile.txt     # Sample employee data
-│       ├── dailyfile.txt       # Sample daily work hours
-│       └── seconddailyfile.txt # More sample daily work hours
+│       ├── dailyfile.txt       # Sample daily work hours at the first site of the company
+│       └── seconddailyfile.txt # Sample daily work hours at the second site
 |
 └── README.md                   # You’re reading it right now!
 ```
