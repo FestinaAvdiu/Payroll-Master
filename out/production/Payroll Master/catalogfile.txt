@@ -1,7 +1,0 @@
-identifier; name; position; required work hours; BASIC OR HOURLY wage; overtime wage
-1; Festina Avdiu; Manager; 8; 7000; 25
-2; Tomas Brown; Worker; 8; 20; 10
-3; Broc Bryson; Worker; 8; 23; 12
-4; Dua Lipa; Worker; 8; 25; 15
-5; Ian Drake; Manager; 8; 5000; 22
-6; Kam Brown; Manager; 8; 5700; 24
