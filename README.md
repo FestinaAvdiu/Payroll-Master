@@ -14,7 +14,7 @@ Welcome to the **Payroll Master**!  This Java-based console app is your go-to to
 ## 🗂️ Project Structure
 
 ```plaintext
-.
+Payroll Master
 ├── src
 │   |
 │   ├── Main.java             # The entry point of the program
