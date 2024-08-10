@@ -1,3 +1,0 @@
-SECOND SITE OF THE COMPANY - identifier; worked hours in a day
-5; 7
-6; 10

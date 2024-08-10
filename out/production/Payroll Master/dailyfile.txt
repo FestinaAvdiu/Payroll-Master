@@ -1,5 +1,0 @@
-FIRST SITE OF THE COMPANY - identifier; worked hours in a day
-1; 6
-2; 7
-3; 8
-4; 9
