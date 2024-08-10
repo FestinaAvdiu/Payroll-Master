@@ -77,9 +77,9 @@ public class Main {
     }
 
     private static List<Employee> readEmployeeDataAndDailyHours(int numberOfDays) {
-            List<Employee> employees = DataReader.readEmployeeDataFromFile("catalogfile.txt");
-            DataReader.readDailyWorkedHours("dailyfile.txt", employees, numberOfDays);
-            DataReader.readDailyWorkedHours("seconddailyfile.txt", employees, numberOfDays);
+            List<Employee> employees = DataReader.readEmployeeDataFromFile("C:/Users/Admin/Downloads/Payroll Master/Payroll Master/Data Files/catalogfile.txt");
+            DataReader.readDailyWorkedHours("C:/Users/Admin/Downloads/Payroll Master/Payroll Master/Data Files/dailyfile.txt", employees, numberOfDays);
+            DataReader.readDailyWorkedHours("C:/Users/Admin/Downloads/Payroll Master/Payroll Master/Data Files/seconddailyfile.txt", employees, numberOfDays);
             return employees;
     }
 
