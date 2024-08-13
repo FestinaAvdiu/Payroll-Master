@@ -25,7 +25,7 @@ Payroll Master
 │   ├── DataReader.java       # Reads employee and work hours data
 │   └── DataSorter.java       # Sorts employees by various criteria
 |
-└── data files
+└── Data Files
         ├── catalogfile.txt     # Sample employee data
         ├── dailyfile.txt       # Sample daily work hours at the first site of the company
         └── seconddailyfile.txt # Sample daily work hours at the second site
