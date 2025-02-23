@@ -84,11 +84,5 @@ Choose one of these options:
 
 4. **Follow the Prompts**: Enter the number of working days and explore the options!
 
-## 👫 Contributing
-Got ideas to make this project even cooler? Feel free to fork the repository and make a pull request. Let's improve this system together! 🌟
-
-## 📜 License
-...
-
 ### 👩‍💻 Happy coding! May your payroll calculations always be accurate! 😄
 
